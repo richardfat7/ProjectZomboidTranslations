@@ -497,7 +497,7 @@ Sandbox_IT = {
     Sandbox_CarAlarmFrequency_option1 = "Mai",
     Sandbox_CarAlarmFrequency_option4 = "Qualche Volta",
     Sandbox_CarAlarmFrequency_option3 = "Raro",
-    Sandbox_AllowExteriorGenerator_tooltip = "Se abilitato i generatori funzioneranno nelle zone esterne permettendo, ad esempio, di dare energia alle pompe di benzina.",
+    Sandbox_AllowExteriorGenerator_tooltip = "Se abilitato i generatori funzioneranno nelle zone esterne permettendo ad esempio di dare energia alle pompe di benzina.",
     Sandbox_LockedHouseFrequency_option6 = "Molto Spesso",
     Sandbox_LockedHouseFrequency_option3 = "Raro ",
     Sandbox_LockedHouseFrequency_option2 = "Estremamente Raro",
@@ -532,4 +532,5 @@ Sandbox_IT = {
     Sandbox_MaxFogIntensity_option1 = "Normale",
     Sandbox_InitialGas = "CARBURANTE INIZIALE:",
     Sandbox_ChanceHasGas = "POSSIBILITA' DI AVERE CARBURANTE:",
+    Sandbox_TrafficJam = "BLOCCO DI ROTTAMI AUTO:",
 }
