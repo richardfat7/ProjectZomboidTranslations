@@ -757,4 +757,9 @@ UI_CH = {
     UI_worldscreen_title = "載入已儲存的存檔",
     UI_WorldVersion = "地圖版本：",
     UI_Yes = "是",
+    UI_ServerSettingGroup_Vehicles = "車輛",
+    UI_optionscreen_vehicles = "車輛",
+    UI_mainscreen_coop = "開啟服務器",
+    UI_optionscreen_enableVehicle = "啟用車輛",
+    UI_btn_rename = "重新命名",
 }

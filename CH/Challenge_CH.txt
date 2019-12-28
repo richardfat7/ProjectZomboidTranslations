@@ -1,7 +1,7 @@
 Challenge_CH = {
     Challenge_AReallyCDDAy_desc = "您走出淋浴間摔了個跟斗，您喝得爛醉如泥，並得了嚴重感冒。 <LINE> 醒來後，您住的房子居然也著火了，今天您真是太倒霉了， <BR> 這樣下去的話您可能看不到明天了。 <LINE> <LINE> [一項構想源於超棒、超讚且一定要玩的遊戲 The Cataclysm: Dark Days Ahead 中的 A Really Bad Day 的挑戰。] ",
     Challenge_AReallyCDDAy_name = "6. 一個真正的 CD DA 挑戰",
-    Challenge_AStormIsComing_name = "風暴來了",
+    Challenge_AStormIsComing_name = "7. 風暴來了",
     Challenge_AStormIsComingInfoBox = " <CENTRE> 無盡的惡劣天氣...",
     Challenge_Challenge1_desc = "您只有很短的時間準備，它們會從四面八方出現。 <BR>  <LINE> 檢查所有您能看到的地方，但您又能堅持多久呢? <LINE> 準備好您的武器... <BR> 殭屍的攻擊時無盡的，盡量讓自己生存更長的時間， <LINE> 併合理使用周圍有限的資源.",
     Challenge_Challenge1_name = "4. 林中小木屋 - 背水一戰",
